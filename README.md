@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurmeet</h1>
-<h3 align="center">I'm from Pakistan — a 4th-semester Computer Science student passionate about problem-solving, AI/ML, and Data Science. 💻 Experienced in C, Java, Spring Boot (basic), C++ (basic), HTML, CSS and JS (basic). 🐍 Currently diving deep into Python, exploring libraries like NumPy, pandas, and Matplotlib. 🔍 I love exploring new technologies and building smart solutions. 📸 Also a shutterbug — capturing moments through lens when I'm not coding. Let's connect, learn, and build something amazing!</h3>
+<h3 align="center">I'm from Pakistan — a 4th-semester Computer Science student passionate about problem-solving, and exploring AI/ML and Data Science. 💻 Experienced in C, Java, Spring Boot (basic), C++ (basic), HTML, CSS, JS (basic) and MySQL. 🐍 Currently diving deep into Python, exploring libraries like NumPy, pandas, and Matplotlib. 🔍 I love exploring new technologies and building smart solutions. 📸 Also a shutterbug — capturing moments through lens when I'm not coding. Let's connect, learn, and build something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmeet788&label=Profile%20views&color=0e75b6&style=flat" alt="gurmeet788" /> </p>
 
